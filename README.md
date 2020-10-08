@@ -1,0 +1,2 @@
+# fiFrn
+A floating rate note has variable coupons, depending on a money market reference rate, such as LIBOR, plus a floating spread. When interest rate raises, the coupons of an FRN increases in line with the increase of the forward rates, which means its price remains relatively constant. Therefore, FRNs bear small interest rate risk. On the other hand, FRNs carry lower yields than fixed rate bonds of the same maturity. They also have unpredictable coupon payments. 
