@@ -62,5 +62,5 @@ Payment Frequency	3M
 Spread	0.00077
 
 
-You can find more details at
-https://finpricing.com/lib/IrCurveIntroduction.html
+References:
+https://finpricing.com/faq.html
