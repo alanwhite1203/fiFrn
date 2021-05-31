@@ -63,4 +63,8 @@ Spread	0.00077
 
 
 References:
-https://finpricing.com/faq.html
+
+https://finpricing.com/lib/EqVariance.html
+
+https://bitbucket.org/cmrm11/fifrn/downloads/FiFrn-14.pdf
+
